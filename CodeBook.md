@@ -93,5 +93,5 @@ The variables below contains the variuos measurementst aken during the experimen
 
 
 
-   [Original data source] <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
+   [Original data source]: <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
 
