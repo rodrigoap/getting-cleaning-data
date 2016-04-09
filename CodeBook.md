@@ -3,7 +3,7 @@
 This is the documentation for the tidy dataset produced in step 5.
 The original data has been grouped by Activity and Subject and the calculated the average.
 
-### Data preparation
+### Data processing
 
 The original test and train datasets has the same variables but different row count.
 None of them has the subject or activity in the dataset, so before merging them both columns has to be added.
@@ -86,4 +86,12 @@ The variables below contains the variuos measurementst aken during the experimen
 - frequency_BodyBody_GyroscopeMag-std() 
 - frequency_BodyBody_GyroscopeJerkMag-mean() 
 - frequency_BodyBody_GyroscopeJerkMag-std()
+
+### Resources
+
+[Original data source]
+
+
+
+   [Original data source] <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones>
 
